@@ -1,0 +1,10 @@
+INSERT INTO product ( name, price_eur) VALUES ('Nike running shoes', 99.99);
+INSERT INTO product ( name, price_eur) VALUES ('Adidas everyday sneakers', 89.99);
+INSERT INTO product ( name, price_eur) VALUES ('New balance shoes for dads', 55.99);
+INSERT INTO product ( name, price_eur) VALUES ('Lacoste for city', 66.99);
+INSERT INTO product ( name, price_eur) VALUES ('Timberland working boots', 126.99);
+INSERT INTO product ( name, price_eur) VALUES ('Bikkemberg fashion', 168.99);
+INSERT INTO product ( name, price_eur) VALUES ('Nike slippers', 20.00);
+INSERT INTO product ( name, price_eur) VALUES ('Nike hill boots', 66.99);
+INSERT INTO product ( name, price_eur) VALUES ('Tommy Hilfiger flip-flops', 22.99);
+INSERT INTO product ( name, price_eur) VALUES ('Lacoste sneakers', 57.99);
